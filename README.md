@@ -5,6 +5,8 @@
 
 Coffee Shop Tracker is a Streamlit app for managing a café menu, recording orders, and tracking daily sales in Bahraini dinars (BHD).
 
+[Deployment App — Coffee Shop Tracker](https://coffee-shop-tracker-pygwe4eulaj4acbtidhqbz.streamlit.app)
+
 ## Features
 
 | Page | What you can do |
