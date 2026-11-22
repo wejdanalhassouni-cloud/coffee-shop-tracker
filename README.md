@@ -7,6 +7,8 @@ Coffee Shop Tracker is a Streamlit app for managing a café menu, recording orde
 
 [Deployment App — Coffee Shop Tracker](https://coffee-shop-tracker-pygwe4eulaj4acbtidhqbz.streamlit.app)
 
+[Video Demonstration — Coffee Shop Tracker](https://drive.google.com/file/d/1q_JaaAgm44bnTUlvnFQYWyRTckp0xNuO/view?usp=sharing)
+
 ## Features
 
 | Page | What you can do |
